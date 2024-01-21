@@ -1,6 +1,5 @@
 {
   "spider": "./custom_spider.jar",
-  "spider": "./fty.jar;md5;c309b0f793045f88f75aa088cd0cc7b5",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -22,15 +21,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/ikanbot2.js"
-    },
-     {
-      "key": "一起看 ",
-      "name": "🎉一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_WoGG",
